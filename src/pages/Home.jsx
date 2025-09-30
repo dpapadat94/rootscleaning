@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import rootslogo from "../assets/rootslogo.png";
 import ServicesPreview from "../components/ServicesPreview.jsx";
-import OurMission from "../components/Ourmission.jsx";
+import OurMission from "../components/OurMission.jsx";
 import ServiceArea from "../components/ServiceArea.jsx";
 import Testimonials from "../components/Testimonials.jsx";
 
